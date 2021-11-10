@@ -1,6 +1,11 @@
 # ABP_Grupo_02
 Repositorio del proyecto de ABP  con el notebook y los datasets accesibles
 
+# Notebook con la implementación de nuestro sistema
+
+https://colab.research.google.com/drive/1pemEbC54aaOuVH2hwL_YJFLt-siL5-Ka?usp=sharing
+
+
 ## Introducción
 Nuestro mundo actual es un mundo totalmente globalizado en el que uno de los principales medios de comunicación son las redes sociales, donde los usuarios comparten sus opiniones acerca de diversas noticias y productos de la actualidad.
 
